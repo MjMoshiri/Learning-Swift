@@ -1,5 +1,4 @@
-# Interface Styling
+# Learning Swift and Apple Ecosystem
 
-A tiny SwiftUI interface styling sample I built while learning Xcode.
+This repository documents my journey learning the Apple ecosystem.
 
-![App preview](Sample.gif)
